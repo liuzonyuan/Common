@@ -1,0 +1,14 @@
+Moving forward every production release will require a xxx to go along with. 
+This requirement is in place to help bring visibility outbound on ccc changes.
+ 
+To simplify the process we have created templates that can be easily cloned to expedite releases. 
+Currently ccc and ccc are now following this process. The long term goal is to automate the process into a visible dashboard of all changes. 
+ 
+If you have a eeee production deployment coordinate with your TPM for roll out, or reach out to @rrr for scheduling and coordination. 
+We will be working with all workstream and platform teams in the near term to setup a one-time template.
+ 
+Links:
+link1
+link2
+ 
+If you have any questions feel free to reach out to @rrr or swing by to chat.
