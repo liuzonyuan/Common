@@ -5,3 +5,22 @@ Because of our team’s dedication, hard work, and meticulous planning and execu
 well tested. During the signing off and launching phases, xxx did NOT have a single P1 level issue!
  
 Congratulations, and great job WELL DONE!!!
+
+
+----------
+
+We are very excited to announce launch of xxx integration through ccc and enabling eee support for rrr. We also took this opportunity to add a new ttt in ppp to bbb a feature in run-time based on the request context (page type, device type, client and verticals). 
+The motivation for this effort was to standardize and simplify a/b test setup for preso based experimentation, enable multiple orthogonal A/B test execution for polaris run-time and relevance, and last but not least add support for dynamic control for feature knobs based on the request context.
+ 
+Benefits from current optimization:
+Standardization and simplified xxxx.
+Don’t need to create eee.
+Enabled 
+Currently, a user/request cannot be assigned to more than ttt. This increases delay in conducting aaa for which more traffic is required
+Enabled capability to 
+Example: Enable 
+Example: If 
+I would like take this opportunity to thank vvv (enabling rrr) and yyy (enabling mmm) for their extra-ordinary effort and attention to details. 
+I also want to thank to vvv for architecture and design of dsfsad and mz for leadership and continuous support.
+ 
+Here are the documentation with complete details:
